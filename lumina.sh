@@ -35,6 +35,7 @@ UNET_MODELS=(
 )
 
 LORA_MODELS=(
+    "https://huggingface.co/Bakanayatsu/noobai-loras/resolve/main/lora-lumina2/didac-fantasy-lumina-e5.safetensors"
 )
 
 TEXT_ENCODERS=(
