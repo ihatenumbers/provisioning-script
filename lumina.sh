@@ -26,7 +26,7 @@ WORKFLOWS=(
 
 CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/798204?type=Model&format=SafeTensor&size=full&fp=fp16"
-    "https://huggingface.co/neta-art/Neta-Lumina/resolve/main/neta-lumina-beta-aes-experimental-all-in-one-0624.safetensors"
+    # "https://huggingface.co/neta-art/Neta-Lumina/resolve/main/neta-lumina-beta-aes-experimental-all-in-one-0624.safetensors"
 )
 
 UNET_MODELS=(
@@ -37,10 +37,11 @@ LORA_MODELS=(
 )
 
 TEXT_ENCODERS=(
-
+    "https://huggingface.co/neta-art/Neta-Lumina/resolve/main/Text%20Encoder/gemma_2_2b_fp16.safetensors"
 )
 
 VAE_MODELS=(
+    "https://huggingface.co/neta-art/Neta-Lumina/resolve/main/VAE/ae.safetensors"
 )
 
 ESRGAN_MODELS=(
