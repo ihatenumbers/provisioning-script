@@ -30,7 +30,8 @@ CHECKPOINT_MODELS=(
 )
 
 UNET_MODELS=(
-    "https://huggingface.co/mrpopsalot/neta-lumina-merge/resolve/main/NetaLuminaMerge-NNNNep7s160000-beta0624.safetensors"
+    "https://huggingface.co/neta-art/Neta-Lumina/resolve/main/Unet/neta-lumina-beta-aes-experimental-0624.safetensors"
+    # "https://huggingface.co/mrpopsalot/neta-lumina-merge/resolve/main/NetaLuminaMerge-NNNNep7s160000-beta0624.safetensors"
 )
 
 LORA_MODELS=(
