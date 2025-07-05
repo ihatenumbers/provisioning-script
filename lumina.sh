@@ -36,6 +36,10 @@ UNET_MODELS=(
 LORA_MODELS=(
 )
 
+TEXT_ENCODERS=(
+
+)
+
 VAE_MODELS=(
 )
 
@@ -64,6 +68,9 @@ function provisioning_start() {
     provisioning_get_files \
         "${COMFYUI_DIR}/models/controlnet" \
         "${CONTROLNET_MODELS[@]}"
+    provisioning_get_files \
+        "${COMFYUI_DIR}/models/text_encoders" \
+        "${TEXT_ENCODERS[@]}"
     provisioning_get_files \
         "${COMFYUI_DIR}/models/vae" \
         "${VAE_MODELS[@]}"
