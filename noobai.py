@@ -18,9 +18,10 @@ PIP_PACKAGES=(
 NODES=(
     #"https://github.com/ltdrdata/ComfyUI-Manager"
     "https://github.com/laksjdjf/Batch-Condition-ComfyUI"
-    "https://github.com/Ttl/ComfyUi_NNLatentUpscale"
+    # "https://github.com/Ttl/ComfyUi_NNLatentUpscale"
     "https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet"
     "https://github.com/cubiq/ComfyUI_essentials"
+    "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
 )
 
 WORKFLOWS=(
@@ -42,6 +43,7 @@ TEXT_ENCODERS=(
 )
 
 VAE_MODELS=(
+    "https://huggingface.co/Anzhc/Anzhcs-VAEs/resolve/main/SDXL%20Anime%20VAE%20decoder%20Only%20B1.safetensors"
 )
 
 UPSCALE_MODELS=(
