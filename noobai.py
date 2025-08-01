@@ -17,7 +17,7 @@ PIP_PACKAGES=(
 
 NODES=(
     #"https://github.com/ltdrdata/ComfyUI-Manager"
-    "https://github.com/laksjdjf/Batch-Condition-ComfyUI"
+    # "https://github.com/laksjdjf/Batch-Condition-ComfyUI"
     # "https://github.com/Ttl/ComfyUi_NNLatentUpscale"
     "https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet"
     "https://github.com/cubiq/ComfyUI_essentials"
