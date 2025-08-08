@@ -32,6 +32,8 @@ DIFFUSION_MODELS=(
 )
 
 LORA_MODELS=(
+    "https://huggingface.co/Bakanayatsu/noobai-loras/resolve/main/anime-clotheschanger-e19.safetensors"
+    "https://huggingface.co/Bakanayatsu/noobai-loras/resolve/main/anime-clotheschanger-e25.safetensors"
 )
 
 TEXT_ENCODERS=(
