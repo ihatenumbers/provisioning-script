@@ -42,7 +42,7 @@ TEXT_ENCODERS=(
 )
 
 VAE_MODELS=(
-    "https://huggingface.co/black-forest-labs/FLUX.1-Kontext-dev/resolve/main/ae.safetensors"
+    "https://huggingface.co/yuvraj108c/FLUX.1-Kontext-dev/resolve/main/ae.safetensors"
 )
 
 UPSCALE_MODELS=(
