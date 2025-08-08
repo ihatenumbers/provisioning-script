@@ -44,7 +44,6 @@ VAE_MODELS=(
 )
 
 UPSCALE_MODELS=(
-    "https://huggingface.co/Bakanayatsu/yandereneo-safetensors/resolve/main/4x_NMKD-YandereNeoXL_200k.safetensors"
 )
 
 CONTROLNET_MODELS=(
