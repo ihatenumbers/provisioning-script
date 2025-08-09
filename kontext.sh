@@ -11,12 +11,12 @@ APT_PACKAGES=(
 )
 
 PIP_PACKAGES=(
-    "https://huggingface.co/nunchaku-tech/nunchaku/resolve/main/nunchaku-0.3.1%2Btorch2.7-cp312-cp312-linux_x86_64.whl"
+    # "https://huggingface.co/nunchaku-tech/nunchaku/resolve/main/nunchaku-0.3.1%2Btorch2.7-cp312-cp312-linux_x86_64.whl"
     #"package-2"
 )
 
 NODES=(
-    "https://github.com/nunchaku-tech/ComfyUI-nunchaku"
+    # "https://github.com/nunchaku-tech/ComfyUI-nunchaku"
 )
 
 WORKFLOWS=(
@@ -28,12 +28,12 @@ CHECKPOINT_MODELS=(
 UNET_MODELS=(
 )
 DIFFUSION_MODELS=(
-    "https://huggingface.co/nunchaku-tech/nunchaku-flux.1-kontext-dev/resolve/main/svdq-fp4_r32-flux.1-kontext-dev.safetensors"
+    "https://huggingface.co/LXinyi/FLUX.1-Kontext-dev-RedCraft/resolve/main/redcraftCADSUpdatedJUN29_redKKingOfHearts.safetensors"
 )
 
 LORA_MODELS=(
-    "https://huggingface.co/Bakanayatsu/noobai-loras/resolve/main/anime-clotheschanger-e53.safetensors"
-    "https://huggingface.co/Bakanayatsu/noobai-loras/resolve/main/anime-clotheschanger-e47.safetensors"
+    # "https://huggingface.co/Bakanayatsu/noobai-loras/resolve/main/anime-clotheschanger-e53.safetensors"
+    # "https://huggingface.co/Bakanayatsu/noobai-loras/resolve/main/anime-clotheschanger-e47.safetensors"
 )
 
 TEXT_ENCODERS=(
