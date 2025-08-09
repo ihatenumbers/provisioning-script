@@ -11,7 +11,7 @@ APT_PACKAGES=(
 )
 
 PIP_PACKAGES=(
-    #"package-1"
+    "https://huggingface.co/nunchaku-tech/nunchaku/resolve/main/nunchaku-0.3.1%2Btorch2.7-cp312-cp312-linux_x86_64.whl"
     #"package-2"
 )
 
@@ -32,8 +32,8 @@ DIFFUSION_MODELS=(
 )
 
 LORA_MODELS=(
-    # "https://huggingface.co/Bakanayatsu/noobai-loras/resolve/main/anime-clotheschanger-e19.safetensors"
-    # "https://huggingface.co/Bakanayatsu/noobai-loras/resolve/main/anime-clotheschanger-e25.safetensors"
+    "https://huggingface.co/Bakanayatsu/noobai-loras/resolve/main/anime-clotheschanger-e53.safetensors"
+    "https://huggingface.co/Bakanayatsu/noobai-loras/resolve/main/anime-clotheschanger-e47.safetensors"
 )
 
 TEXT_ENCODERS=(
