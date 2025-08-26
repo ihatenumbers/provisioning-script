@@ -16,7 +16,6 @@ PIP_PACKAGES=(
 )
 
 NODES=(
-    "https://github.com/Ttl/ComfyUi_NNLatentUpscale"
 )
 
 WORKFLOWS=(
