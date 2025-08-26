@@ -26,6 +26,7 @@ WORKFLOWS=(
 )
 
 CHECKPOINT_MODELS=(
+    "https://huggingface.co/Bakanayatsu/noobai-loras/resolve/main/lunarcherrymix_v23.safetensors"
 )
 
 UNET_MODELS=(
