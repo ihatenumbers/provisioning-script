@@ -16,9 +16,6 @@ PIP_PACKAGES=(
 )
 
 NODES=(
-    "https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet"
-    "https://github.com/cubiq/ComfyUI_essentials"
-    "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
     "https://github.com/Ttl/ComfyUi_NNLatentUpscale"
 )
 
