@@ -41,7 +41,7 @@ TEXT_ENCODERS=(
 )
 
 VAE_MODELS=(
-    "https://huggingface.co/Qwen/Qwen-Image-Edit/resolve/main/vae/diffusion_pytorch_model.safetensors"
+    "https://huggingface.co/Comfy-Org/Qwen-Image_ComfyUI/resolve/main/split_files/vae/qwen_image_vae.safetensors"
 )
 
 UPSCALE_MODELS=(
