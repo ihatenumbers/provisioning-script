@@ -16,7 +16,7 @@ PIP_PACKAGES=(
 )
 
 NODES=(
-    "https://github.com/nunchaku-tech/ComfyUI-nunchaku"
+    "https://github.com/city96/ComfyUI-GGUF"
 )
 
 WORKFLOWS=(
