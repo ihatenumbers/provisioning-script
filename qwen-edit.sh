@@ -29,11 +29,12 @@ UNET_MODELS=(
 )
 
 DIFFUSION_MODELS=(
-    "https://huggingface.co/nunchaku-tech/nunchaku-qwen-image-edit/resolve/main/svdq-int4_r32-qwen-image-edit-lightningv1.0-4steps.safetensors"
+    "https://huggingface.co/QuantStack/Qwen-Image-Edit-GGUF/resolve/main/Qwen_Image_Edit-Q4_K_M.gguf"
 )
 
 LORA_MODELS=(
     "https://huggingface.co/Bakanayatsu/noobai-loras/resolve/main/anime-stripper.safetensors"
+    "https://huggingface.co/lightx2v/Qwen-Image-Lightning/resolve/main/Qwen-Image-Lightning-4steps-V2.0-bf16.safetensors"
 )
 
 TEXT_ENCODERS=(
