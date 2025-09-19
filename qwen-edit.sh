@@ -34,7 +34,7 @@ DIFFUSION_MODELS=(
 
 LORA_MODELS=(
     "https://huggingface.co/Bakanayatsu/noobai-loras/resolve/main/anime-stripper.safetensors"
-    "https://huggingface.co/lightx2v/Qwen-Image-Lightning/resolve/main/Qwen-Image-Lightning-4steps-V2.0-bf16.safetensors"
+    "https://huggingface.co/lightx2v/Qwen-Image-Lightning/resolve/main/Qwen-Image-Edit-Lightning-4steps-V1.0-bf16.safetensors"
 )
 
 TEXT_ENCODERS=(
